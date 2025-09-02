@@ -1,5 +1,5 @@
 
-![Alt text](Capture45.PNG)
+![Alt text](git.PNG)
 
 # This project is a gitHub profile seearch app built with Javascript.
     #It fetches user data from the Github API and display the following information on the page;
